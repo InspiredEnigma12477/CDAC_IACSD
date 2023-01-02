@@ -21,7 +21,7 @@ Add Project to Solution: `dotnet sln sln_name add project_name/project_name.cspr
 
 Run Project: `dotnet run -p project_name`
 
-# Docker stuff
+# Docker Commands
 
 Dockerfile
 ```
